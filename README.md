@@ -1,3 +1,22 @@
+### Hi there 👋, my name is Mainul Islam
+#### I am a Front-End Developer
+i do development, I really enjoy learning languages and frameworks like React and React Native
+
+Skills: NODE JS / REACT / JS / HTML5 / CSS3/ FIREBASE / MONGODB / REACT NATIVE / BOOTSTRAP 5
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋, I am Mainul Islam
 
 i do development,  I really enjoy learning languages and frameworks like React and React Native 

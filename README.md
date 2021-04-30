@@ -2,7 +2,7 @@
 #### I am a Front-End Developer
 i do development, I really enjoy learning languages and frameworks like React and React Native
 
-Skills: NODE JS / REACT / JS / HTML5 / CSS3/ FIREBASE / MONGODB / REACT NATIVE / BOOTSTRAP 5 / EXPRESS JS / ES6
+Skills: NODE JS / REACT / JS / HTML5 / CSS3 / FIREBASE / MONGODB / REACT NATIVE / BOOTSTRAP 5 / EXPRESS JS / ES6
 
 
 

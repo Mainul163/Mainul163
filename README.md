@@ -5,7 +5,7 @@ i do development, I really enjoy learning languages and frameworks like React an
 
 
 
-Skills: NODE JS / REACT / JAVASCRIPT / HTML5 / CSS3 / FIREBASE / MONGODB / REACT NATIVE / BOOTSTRAP 5 / EXPRESS JS / ES6
+Skills: NODE JS / REACT / REDUX/ JAVASCRIPT / HTML5 / CSS3 / FIREBASE / MONGODB / REACT NATIVE / BOOTSTRAP 5 / EXPRESS JS / ES6
 
 
 

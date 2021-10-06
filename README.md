@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mainul Islam
-👑 I am Web Developer</br>
-🖊️ Love to write code
-🎤 Like to share my knowledge
+👑<p> I am Web Developer</p></br>
+🖊️ Love to write code</br>
+🎤 Like to share my knowledge</br>
 
 ![Profile views](https://gpvc.arturio.dev/Mainul163)  
 

@@ -34,7 +34,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F38020?style=flat-square&logo=firebase&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VsCode-A81D33?style=flat-square&logo=vs-code&logoColor=white)
-![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
+![Zorin](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 

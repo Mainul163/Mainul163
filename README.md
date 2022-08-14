@@ -22,7 +22,7 @@
 ![Redux](https://img.shields.io/badge/Redux-white?style=flat-square&logo=redux&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-white?style=flat-square&logo=express&logoColor=black)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Node js](https://img.shields.io/badge/Node.js-21759B?style=flat-square&logo=node&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)

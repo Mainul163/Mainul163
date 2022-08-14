@@ -30,7 +30,7 @@
 ![Sass](https://img.shields.io/badge/Sass-pink?style=flat-square&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material-UI-005C84?style=flat-square&logo=ui-mui&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material UI-005C84?style=flat-square&logo=ui-mui&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)

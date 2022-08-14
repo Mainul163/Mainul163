@@ -33,9 +33,9 @@
 ![Heroku](https://img.shields.io/badge/Heroku-white?style=flat-square&logo=heroku&logoColor=purple)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F38020?style=flat-square&logo=firebase&logoColor=white)
-![VsCode](https://img.shields.io/badge/VsCode-A81D33?style=flat-square&logo=vs-code&logoColor=white)
-![Zorin](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-A81D33?style=flat-square&logo=vs-code&logoColor=white)
+![Git](https://https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
+![Postman](https://https://img.shields.io/badge/Postman-white?style=flat-square&logo=postman&logoColor=orange)
 
 
 

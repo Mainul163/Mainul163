@@ -34,8 +34,8 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F38020?style=flat-square&logo=firebase&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-A81D33?style=flat-square&logo=vs-code&logoColor=white)
-![Git](https://https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
-![Postman](https://https://img.shields.io/badge/Postman-white?style=flat-square&logo=postman&logoColor=orange)
+![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-white?style=flat-square&logo=postman&logoColor=orange)
 
 
 

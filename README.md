@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mainul Islam
-##### 👑 I am Front End Software Engineer
+##### 👑 I am  Software Developer
 ##### 🖊️ Love to write code
 ##### 🎤 Like to share my knowledge
 

@@ -16,13 +16,13 @@
 
 
 
+![ASP.NET](https://img.shields.io/badge/ASP.NET-FFFFFF?style=flat-square&logo=.net&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-white?style=flat-square&logo=redux&logoColor=black)
 ![Node js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-white?style=flat-square&logo=express&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-FFFFFF?style=flat-square&logo=.net&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=oracle&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

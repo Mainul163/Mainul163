@@ -17,7 +17,7 @@
 
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-FFFFFF?style=flat-square&logo=.net&logoColor=black)
-![PHP](https://img.shields.io/badge/php-545454?style=flat-square&logo=php&logoColor=#7B86B6)
+![PHP](https://img.shields.io/badge/PHP-545454?style=flat-square&logo=php&logoColor=#7B86B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)

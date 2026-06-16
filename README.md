@@ -3,9 +3,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/Mainul163)  <a href="https://wakatime.com/@cae19a2b-5b56-4fec-b693-bf09d27b98d5"><img src="https://wakatime.com/badge/user/cae19a2b-5b56-4fec-b693-bf09d27b98d5.svg" alt="Total time coded since Sep 25 2021" /></a>
 
-#####  I’m a ## 👋 About Me
 
-Backend Software Engineer specializing in Node.js, NestJS, and TypeScript, with a strong focus on building scalable, production-grade applications and high-performance backend systems.
+
+I’m a Backend Software Engineer specializing in Node.js, NestJS, and TypeScript, with a strong focus on building scalable, production-grade applications and high-performance backend systems.
 
 Experienced in designing robust REST APIs, distributed architectures, and cloud-native solutions. Skilled in database optimization with MongoDB, implementing efficient caching strategies using Redis, and leveraging AWS services to deliver reliable and scalable infrastructure.
 

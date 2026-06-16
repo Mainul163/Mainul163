@@ -1,11 +1,16 @@
-### Hi there 👋, my name is Mainul Islam
-##### 👑 I am  Software Developer
-##### 🖊️ Love to write code
-##### 🎤 Like to share my knowledge
+### Hi there 👋, my name is Mainul Islam Ishraf
+
 
 ![Profile views](https://gpvc.arturio.dev/Mainul163)  <a href="https://wakatime.com/@cae19a2b-5b56-4fec-b693-bf09d27b98d5"><img src="https://wakatime.com/badge/user/cae19a2b-5b56-4fec-b693-bf09d27b98d5.svg" alt="Total time coded since Sep 25 2021" /></a>
 
-#####  I’m a Software developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
+#####  I’m a ## 👋 About Me
+
+Backend Software Engineer specializing in Node.js, NestJS, and TypeScript, with a strong focus on building scalable, production-grade applications and high-performance backend systems.
+
+Experienced in designing robust REST APIs, distributed architectures, and cloud-native solutions. Skilled in database optimization with MongoDB, implementing efficient caching strategies using Redis, and leveraging AWS services to deliver reliable and scalable infrastructure.
+
+Passionate about system design, database architecture, performance optimization, and clean software engineering practices. Enjoy solving complex technical challenges, improving system reliability, and building backend services that efficiently handle real-world scale and traffic.
+.
 
 
 </br>
